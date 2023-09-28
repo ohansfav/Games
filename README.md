@@ -16,8 +16,7 @@
 
 ## Installation
 
-### C
-## Installation
+### For C
 
 1. **Install a C compiler**: If you don't have a C compiler installed on your system, you'll need to install one. One popular option is GCC (GNU Compiler Collection), which is available on various platforms.
 

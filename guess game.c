@@ -17,14 +17,14 @@ int main()
     //choosing difficulty
     diffi:
     printf("\n \n \t \t \t \t-----------------------CHOOSE DIFFICULTY------------------------\n");
-    printf("\t \t \t \t \t \t0 --NOOB-------------\n");
-    printf("\t \t \t \t \t \t1 --EASY-------------\n");
-    printf("\t \t \t \t \t \t2 --MEDIUM-----------\n");
-    printf("\t \t \t \t \t \t3 --HARD-------------\n");
-    printf("\t \t \t \t \t \t4 --EXTREME----------\n \n");
+    printf("\t \t \t \t \t \t0 --NOOB-------------\n"); // for noob
+    printf("\t \t \t \t \t \t1 --EASY-------------\n"); // for easy 
+    printf("\t \t \t \t \t \t2 --MEDIUM-----------\n"); // for medium
+    printf("\t \t \t \t \t \t3 --HARD-------------\n"); // for hard 
+    printf("\t \t \t \t \t \t4 --EXTREME----------\n \n"); // extreme 
 
     printf("\t \t \t \t \t \tPLEASE CHOSE ONE:\t");
-    scanf("%d",&a);
+    scanf("%d",&a); // takes input for the difficulties 
 
     if(a== 0){
         printf("\t \t \t \t \t \t\n \nYOU HAVE CHOSEN NOOB\n \n");

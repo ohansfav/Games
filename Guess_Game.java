@@ -4,8 +4,8 @@
  */
 package guess_game;
 
-import java.util.Scanner;
-import java.util.Random;
+import java.util.Scanner; //takes input
+import java.util.Random; // gives random numbers 
 
 /**
  *
@@ -13,7 +13,7 @@ import java.util.Random;
  */
 public class Guess_Game {
     public static void main(String[] args) {
-        // TODO code application logic here
+    
         //int play;
      
         System.out.println("Hi, Welcome to my Guess Game\n");
@@ -29,7 +29,7 @@ public class Guess_Game {
         System.out.println("--4 ------Extreme------");
         System.out.println("input: "); 
         Scanner scanner = new Scanner(System.in);
-            
+            //input for difficulties 
                 int guess = scanner.nextInt();
                 if(guess == 1){
                     System.out.println("easy");

@@ -4,6 +4,8 @@
  */
 package guess_game;
 
+//gui would be added soon
+
 import java.util.Scanner; //takes input
 import java.util.Random; // gives random numbers 
 

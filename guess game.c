@@ -7,7 +7,7 @@ int main()
 
     int a,b,c,d; // declaring variables to be used
 
-    // this is game is about guessing the number
+    // this is game is about guessing the numbers
 
     printf("\t \t \t \t-----------------------GUESS THE NUMBER------------------------\n");
     printf("\t \t \t \t-----------------------GUESS THE NUMBER------------------------\n");

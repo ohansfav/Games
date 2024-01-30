@@ -5,9 +5,9 @@
 int main()
 {
 
-    int a,b,c,d; // declaring variables to be used
+    int a,b,c,d; // declaring variables to be used for the program
 
-    // this is game is about guessing the numbers
+    // this is game is about guessing the numbers 
 
     printf("\t \t \t \t-----------------------GUESS THE NUMBER------------------------\n");
     printf("\t \t \t \t-----------------------GUESS THE NUMBER------------------------\n");
